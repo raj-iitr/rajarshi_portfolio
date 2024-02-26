@@ -16,7 +16,7 @@
   Following tech stacks are used <br><br>
   <p align="center>
      <img src="mongodb.png" alt="mongodb" width="70" height="70">
-     <img src="sanity.png" alt="sanity" width="70" height="70">
+     <img src="Screenshot (12).png" alt="sanity" width="70" height="70">
      <img src="react.png" alt="react" width="70" height="70">
   </p>
 </h4>
